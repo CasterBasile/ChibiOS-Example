@@ -44,7 +44,7 @@ Complete I²C example featuring:
 
 ### 🔹 4. Real-Time Latency & Jitter Measurement
 
-This is the main experimental setup used in **Chapter 4** of the thesis.
+This is the main experimental setup used in **Chapter 3** of the thesis.
 It includes:
 
 * a 500 ms periodic task
@@ -99,4 +99,5 @@ Each example is:
 
 Released under the **MIT License**.
 You are free to use, modify, and redistribute the examples.
+
 
